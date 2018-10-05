@@ -69,7 +69,7 @@ button:active {
 }
 
 .weatherInfo:last-child {
-  border: 0;
+  border-bottom: solid 5px rgba(255, 255, 255);
 }
 
 .weatherValue {
